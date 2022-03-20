@@ -1,2 +1,3 @@
 hola este es un archivo de texto plano
 esta es la version 1
+luego de la versión 1 se edito este archivo con lo cual se creo la version 2
